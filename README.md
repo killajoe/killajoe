@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on EndeavourOS all the time 
 - 🤔 I’m looking for help with everything start contributing to EndeavourOS 
-- 📫 How to reach me: [...](https://forum.endeavouros.com/u/joekamprad/)
+- 📫 How to reach me: [joekamprad@endeavouros.com](https://forum.endeavouros.com/u/joekamprad/)
 
 
 
