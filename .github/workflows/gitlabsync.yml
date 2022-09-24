@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - uses: joekamprad/killajoe/init@v1
+    - uses: joekamprad/killajoe
       with:
         # remote url such as https://gitlab.com/joekamprad/killajoe.git
         target-url: ${{ secrets.TARGET_URL }}
