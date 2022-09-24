@@ -11,9 +11,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        fetch-depth: 0
-    - uses: killajoe/killajoe@main
-      with:
         # remote url such as https://gitlab.com/joekamprad/killajoe.git
         target-url: ${{ secrets.TARGET_URL }}
         # remote such as joekamprad
