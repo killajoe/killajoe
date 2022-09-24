@@ -9,10 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     name: Git Repo Sync
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/killajoe@main
       with:
         fetch-depth: 0
-    - uses: killajoe/killajoe
+    - uses: joekamprad/killajoe@main
       with:
         # remote url such as https://gitlab.com/joekamprad/killajoe.git
         target-url: ${{ secrets.TARGET_URL }}
