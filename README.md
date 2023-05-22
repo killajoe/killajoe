@@ -10,4 +10,4 @@
 <img src="https://komarev.com/ghpvc/?username=killajoe&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
 
 
-<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="joekamprad" data-description="Support me on Buy me a coffee!" data-message="Help me working for EndeavourOS with your donation." data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+<a href="https://www.buymeacoffee.com/joekamprad"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🚀&slug=joekamprad&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
