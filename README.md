@@ -10,4 +10,4 @@
 <img src="https://komarev.com/ghpvc/?username=killajoe&label=Profile%20views&color=08052b&style=flat" alt="Views"/>
 
 
-<a href="https://www.buymeacoffee.com/joekamprad"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🚀&slug=joekamprad&button_colour=5F7FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="joekamprad" data-color="#BD5FFF" data-emoji="🍺"  data-font="Poppins" data-text="Buy me a beer" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
